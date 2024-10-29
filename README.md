@@ -1,6 +1,3 @@
-ORIGINAL AUTHOR:
-https://github.com/mylinuxforwork/hyprland-starter
-
 ## Requirements
 
 Ths script supports the following distributions:
@@ -41,3 +38,5 @@ The script will install the following packages and the corresponding configurati
 - qt6-wayland 
 - Lock screen: hyprlock
 
+ORIGINAL AUTHOR:
+https://github.com/mylinuxforwork/hyprland-starter
