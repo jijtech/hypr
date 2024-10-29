@@ -1,3 +1,6 @@
+ORIGINAL AUTHOR:
+https://github.com/mylinuxforwork/hyprland-starter
+
 # ML4W Hyprland Starter 1.0.1
 
 The ML4W Hyprland Starter package is the perfect starting point for your Hyprland customization experiments.
