@@ -34,5 +34,5 @@ The script will install the following packages and the corresponding configurati
 - qt6-wayland 
 - Lock screen: hyprlock
 
-ORIGINAL AUTHOR:
+> this is kind of a fork but mostly stripped, cred author:
 https://github.com/mylinuxforwork/hyprland-starter
